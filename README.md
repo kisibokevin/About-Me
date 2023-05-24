@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Olik2020
+- 👋 Hi, I’m Kisibo Kevin
 - 👀 I’m interested in Web development and programming
 - 🌱 I’m currently learning Bsc. Information Technology Kca university, KENYA.
 - 💞️ I’m looking to collaborate on ...
